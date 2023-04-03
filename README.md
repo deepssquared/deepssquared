@@ -11,6 +11,17 @@ I am an MPH graduate and MS student interested in the intersection of data scien
 
 #### Epidemiology, Master of Public Health
 
-#### 
+* The Impact of Caste on Health | [Markdown](https://github.com/deepssquared/caste-health-india) | [GitHub Page](https://deepssquared.github.io/caste-health-india/)
+*  Predicting Gender from Risk-Seeking Behaviors | [Markdown](https://github.com/deepssquared/DSII_FinalProject) | [GitHub Page](https://htmlpreview.github.io/?https://github.com/deepssquared/DSII_FinalProject/blob/master/final_report.html)
+
+### Publications
+
+#### Gender-Based Violence
+
+#### Psychiatry
+
+#### COVID-19
+
+#### Hematology
 
 
