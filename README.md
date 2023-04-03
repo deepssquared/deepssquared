@@ -5,6 +5,10 @@ I am an MPH graduate and MS student interested in the intersection of data scien
 
 #### Data Science, Master of Science 
 
+* [Predicting Progression of Endometrial Cancer](https://github.com/deepssquared/CUNY.MDS/blob/main/DATA602/DATA%20602%20FINAL.ipynb)
+* [COVID-19 Vaccine Clinic Simulation](https://github.com/deepssquared/CUNY.MDS/blob/main/DATA604/FINAL/FINAL_SUBMISSION.ipynb)
+* [The opioid epidemic in surveillance & survey data](https://rpubs.com/ddilip94/DATA607FINAL)
+
 #### Epidemiology, Master of Public Health
 
 #### 
