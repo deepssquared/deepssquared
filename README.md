@@ -18,10 +18,18 @@ I am an MPH graduate and MS student interested in the intersection of data scien
 
 #### Gender-Based Violence
 
+* #MeToo in South Korea: Public Health Meets a Global Movement | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35862888/)
+* 
 #### Psychiatry
 
 #### COVID-19
 
+* The first 20 months of the COVID-19 pandemic: Mortality, intubation and ICU rates among 104,590 patients hospitalized at 21 United States health systems | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36170336/)
+
 #### Hematology
 
+* Wearable sensor-based performance status assessment in cancer: A pilot multicenter study from the Alliance for Clinical Trials in Oncology (A19_Pilot2) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36812616/)
 
+#### Miscellaneous Projects
+
+* Death Rates and US Presidential Voting | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31898122/)
