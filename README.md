@@ -19,16 +19,20 @@ I am an MPH graduate and MS student interested in the intersection of data scien
 #### Gender-Based Violence
 
 * #MeToo in South Korea: Public Health Meets a Global Movement | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35862888/)
-* 
+* Sexual Violence and Mental Health Among College Students in the Era of #MeToo | [ResearchGate](https://www.researchgate.net/publication/345702710_Sexual_Violence_and_Mental_Health_Among_College_Students_in_the_Era_of_MeToo)
 #### Psychiatry
 
 #### COVID-19
 
+* Rapid Scaling Up of Telehealth Treatment for Tobacco-Dependent Cancer Patients During the COVID-19 Outbreak in New York City
+ | [ResearchGate](https://www.researchgate.net/publication/342854047_Rapid_Scaling_Up_of_Telehealth_Treatment_for_Tobacco-Dependent_Cancer_Patients_During_the_COVID-19_Outbreak_in_New_York_City)
 * The first 20 months of the COVID-19 pandemic: Mortality, intubation and ICU rates among 104,590 patients hospitalized at 21 United States health systems | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36170336/)
 
 #### Hematology
 
+* Quantitative Cytogenetic Analysis with karyoParser Allows for More Precise Identification of Disease Biology, Clonal Evolution, and Etiology of Relapse in Acute Myeloid Leukemia | [ResearchGate](https://www.researchgate.net/publication/365816951_Quantitative_Cytogenetic_Analysis_with_karyoParser_Allows_for_More_Precise_Identification_of_Disease_Biology_Clonal_Evolution_and_Etiology_of_Relapse_in_Acute_Myeloid_Leukemia)
 * Wearable sensor-based performance status assessment in cancer: A pilot multicenter study from the Alliance for Clinical Trials in Oncology (A19_Pilot2) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36812616/)
+* Single Cell ATAC Lineage Deconvolution Reveals Overlapping Subclones in Epigenetically Distinct AML Samples | [ResearchGate](https://www.researchgate.net/publication/356494698_Single_Cell_ATAC_Lineage_Deconvolution_Reveals_Overlapping_Subclones_in_Epigenetically_Distinct_AML_Samples)
 
 #### Miscellaneous Projects
 
