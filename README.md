@@ -20,13 +20,14 @@ I am an MPH graduate and MS student interested in the intersection of data scien
 
 * #MeToo in South Korea: Public Health Meets a Global Movement | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35862888/)
 * Sexual Violence and Mental Health Among College Students in the Era of #MeToo | [ResearchGate](https://www.researchgate.net/publication/345702710_Sexual_Violence_and_Mental_Health_Among_College_Students_in_the_Era_of_MeToo)
-#### Psychiatry
 
 #### COVID-19
 
 * Rapid Scaling Up of Telehealth Treatment for Tobacco-Dependent Cancer Patients During the COVID-19 Outbreak in New York City
  | [ResearchGate](https://www.researchgate.net/publication/342854047_Rapid_Scaling_Up_of_Telehealth_Treatment_for_Tobacco-Dependent_Cancer_Patients_During_the_COVID-19_Outbreak_in_New_York_City)
 * The first 20 months of the COVID-19 pandemic: Mortality, intubation and ICU rates among 104,590 patients hospitalized at 21 United States health systems | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36170336/)
+* Relations of Current and Past Cancer with Severe Outcomes among 104,590 Hospitalized COVID-19 Patients: The COVID EHR Cohort at the University of Wisconsin | [ResearchGate](https://www.researchgate.net/publication/362717637_Relations_of_Current_and_Past_Cancer_with_Severe_Outcomes_among_104590_Hospitalized_COVID-19_Patients_The_COVID_EHR_Cohort_at_the_University_of_Wisconsin)
+* Smoking Status, Nicotine Medication, Vaccination, and COVID-19 Hospital Outcomes: Findings from the COVID EHR Cohort at the University of Wisconsin (CEC-UW) Study | [ResearchGate](https://www.researchgate.net/publication/363361565_Smoking_Status_Nicotine_Medication_Vaccination_and_COVID-19_Hospital_Outcomes_Findings_from_the_COVID_EHR_Cohort_at_the_University_of_Wisconsin_CEC-UW_Study)
 
 #### Hematology
 
