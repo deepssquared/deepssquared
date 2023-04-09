@@ -32,7 +32,7 @@ I am an MPH graduate and MS student interested in the intersection of data scien
 #### Hematology
 
 * Quantitative Cytogenetic Analysis with karyoParser Allows for More Precise Identification of Disease Biology, Clonal Evolution, and Etiology of Relapse in Acute Myeloid Leukemia | [ResearchGate](https://www.researchgate.net/publication/365816951_Quantitative_Cytogenetic_Analysis_with_karyoParser_Allows_for_More_Precise_Identification_of_Disease_Biology_Clonal_Evolution_and_Etiology_of_Relapse_in_Acute_Myeloid_Leukemia)
-* Wearable sensor-based performance status assessment in cancer: A pilot multicenter study from the Alliance for Clinical Trials in Oncology (A19_Pilot2) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36812616/)
+* Wearable sensor-based performance status assessment in cancer: A pilot multicenter study from the Alliance for Clinical Trials in Oncology (A19_Pilot2) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36812616/) | [R Package](https://github.com/JLGlass/fitness) | [R Code](https://github.com/JLGlass/fitness_analysis_code)
 * Single Cell ATAC Lineage Deconvolution Reveals Overlapping Subclones in Epigenetically Distinct AML Samples | [ResearchGate](https://www.researchgate.net/publication/356494698_Single_Cell_ATAC_Lineage_Deconvolution_Reveals_Overlapping_Subclones_in_Epigenetically_Distinct_AML_Samples)
 
 #### Miscellaneous Projects
