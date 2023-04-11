@@ -1,18 +1,6 @@
 ### About me
 I am an MPH graduate and MS student interested in the intersection of data science and medicine. 
 
-### Academic Projects :computer:
-
-#### Data Science, Master of Science 
-
-* Predicting Progression of Endometrial Cancer | [Markdown](https://github.com/deepssquared/CUNY.MDS/blob/main/DATA602/DATA%20602%20FINAL.ipynb)
-* COVID-19 Vaccine Clinic Simulation | [Markdown](https://github.com/deepssquared/CUNY.MDS/blob/main/DATA604/FINAL/FINAL_SUBMISSION.ipynb)
-* The opioid epidemic in surveillance & survey data | [Markdown](https://rpubs.com/ddilip94/DATA607FINAL)
-
-#### Epidemiology, Master of Public Health
-
-* The Impact of Caste on Health | [Markdown](https://github.com/deepssquared/caste-health-india) | [GitHub Page](https://deepssquared.github.io/caste-health-india/)
-*  Predicting Gender from Risk-Seeking Behaviors | [Markdown](https://github.com/deepssquared/DSII_FinalProject) | [GitHub Page](https://htmlpreview.github.io/?https://github.com/deepssquared/DSII_FinalProject/blob/master/final_report.html)
 
 ### Select Publications :closed_book:	
 
@@ -34,6 +22,19 @@ I am an MPH graduate and MS student interested in the intersection of data scien
 * Quantitative Cytogenetic Analysis with karyoParser Allows for More Precise Identification of Disease Biology, Clonal Evolution, and Etiology of Relapse in Acute Myeloid Leukemia | [ResearchGate](https://www.researchgate.net/publication/365816951_Quantitative_Cytogenetic_Analysis_with_karyoParser_Allows_for_More_Precise_Identification_of_Disease_Biology_Clonal_Evolution_and_Etiology_of_Relapse_in_Acute_Myeloid_Leukemia)
 * Wearable sensor-based performance status assessment in cancer: A pilot multicenter study from the Alliance for Clinical Trials in Oncology (A19_Pilot2) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36812616/) | [R Package](https://github.com/JLGlass/fitness) | [R Code](https://github.com/JLGlass/fitness_analysis_code)
 * Single Cell ATAC Lineage Deconvolution Reveals Overlapping Subclones in Epigenetically Distinct AML Samples | [ResearchGate](https://www.researchgate.net/publication/356494698_Single_Cell_ATAC_Lineage_Deconvolution_Reveals_Overlapping_Subclones_in_Epigenetically_Distinct_AML_Samples)
+
+### Academic Projects :computer:
+
+#### Data Science, Master of Science 
+
+* Predicting Progression of Endometrial Cancer | [Markdown](https://github.com/deepssquared/CUNY.MDS/blob/main/DATA602/DATA%20602%20FINAL.ipynb)
+* COVID-19 Vaccine Clinic Simulation | [Markdown](https://github.com/deepssquared/CUNY.MDS/blob/main/DATA604/FINAL/FINAL_SUBMISSION.ipynb)
+* The opioid epidemic in surveillance & survey data | [Markdown](https://rpubs.com/ddilip94/DATA607FINAL)
+
+#### Epidemiology, Master of Public Health
+
+* The Impact of Caste on Health | [Markdown](https://github.com/deepssquared/caste-health-india) | [GitHub Page](https://deepssquared.github.io/caste-health-india/)
+*  Predicting Gender from Risk-Seeking Behaviors | [Markdown](https://github.com/deepssquared/DSII_FinalProject) | [GitHub Page](https://htmlpreview.github.io/?https://github.com/deepssquared/DSII_FinalProject/blob/master/final_report.html)
 
 #### Miscellaneous Projects
 
