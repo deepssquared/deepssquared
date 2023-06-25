@@ -1,5 +1,5 @@
 ### About me
-I am an MPH graduate and MS student interested in the intersection of data science and medicine. 
+I am an MPH and MS graduate interested in the intersection of data science and medicine. 
 
 
 ### Select Publications :closed_book:	
